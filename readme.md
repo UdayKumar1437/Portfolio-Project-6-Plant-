@@ -19,5 +19,5 @@ A simple landing page for plant company created using `HTML` and `CSS`. This Pro
 - How to use CSS transition property on a button upon being hovered
 - How to position an image using CSS absolute property
 
-### [Live Link]() of this project
+### [Live Link](https://project-6-ineuron.netlify.app/ "plant") of this project
 
